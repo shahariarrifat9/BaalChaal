@@ -29,6 +29,9 @@ public class ClientLogin extends Application implements Initializable {
     static int uniPORT = 8899;
     String host;
     String port;
+
+    String host1;
+    String port1;
     @FXML
     TextField id;
     @FXML
